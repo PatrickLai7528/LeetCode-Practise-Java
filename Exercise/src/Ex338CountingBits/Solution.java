@@ -1,4 +1,4 @@
-package Ex338;
+package Ex338CountingBits;
 
 import java.util.ArrayList;
 import java.util.List;
