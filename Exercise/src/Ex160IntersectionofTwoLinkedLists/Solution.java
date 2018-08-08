@@ -2,8 +2,6 @@ package Ex160IntersectionofTwoLinkedLists;
 
 import UtilsClass.ListNode;
 
-import java.util.HashMap;
-import java.util.List;
 
 /**
  * Write a program to find the node at which the intersection of two singly linked lists begins.
