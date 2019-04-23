@@ -1,7 +1,6 @@
 package Ex543DiameterofBinaryTree;
 
 import UtilsClass.TreeNode;
-import sun.reflect.generics.tree.Tree;
 
 /**
  * Given a binary tree, you need to compute the length of the diameter of the tree. The diameter of a binary tree is the length of the longest path between any two nodes in a tree. This path may or may not pass through the root.
